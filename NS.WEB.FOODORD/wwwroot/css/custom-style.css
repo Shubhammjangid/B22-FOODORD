@@ -1,0 +1,34 @@
+img{
+    width:100%;
+    max-width:100%;
+}
+.order-section{
+    padding:100px 0 0 0;
+}
+.order-section .row{
+    align-items:center;
+    display: flex;
+}
+.product-content h1{
+    color:#fff;
+}
+.product-content{
+    border: 5px solid #eee;
+    padding: 30px;
+}
+.product-content a{
+    margin-top: 20px;
+}
+.price-sku-brand-container span{
+    color:#fff;
+}
+.pay-order{
+    padding-top:100px;
+}
+.pay-order select{
+    display: block;
+    width:100%;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    height:54px;
+}

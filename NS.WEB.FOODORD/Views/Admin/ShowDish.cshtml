@@ -1,0 +1,70 @@
+﻿@model IEnumerable<NS.WEB.DATABASE.Entities.DishTable>
+
+
+
+
+@foreach(var dish in Model){
+
+    <div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+   
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+
+      <img src="@dish.ImgUrl" class="d-block w-100" alt="...">
+    </div>
+   
+  </div>
+ 
+</div>
+        </div>
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>@dish.DishName</h1>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12 text-primary">
+                    <span class="col-form-label">Price:</span>
+                    <span class="monospaced">@dish.DishPrice</span>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-12">
+                    <p>@dish.DishDescription
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <a class="btn btn-outline-primary" asp-action="UpdateDish" asp-controller="Admin" asp-route-id="@dish.DishId">
+                       Update
+                    </a>
+                     <a class="btn btn-outline-primary" asp-action="DeleteDish" asp-controller="Admin" asp-route-id="@dish.DishId">
+                       Delete
+                    </a>
+                </div>
+            </div> 
+
+            <hr/>
+            <ul class="list-group">
+                <li class="list-group-item"><span class="font-weight-bold">Category - </span>@dish.DishCategory</li>
+                <li class="list-group-item"><span class="font-weight-bold">Type - </span>@dish.DishOrigin</li>
+                <li class="list-group-item"><span class="font-weight-bold">Status- </span>@dish.DishStatus</li>
+            </ul>
+           
+        </div>
+
+    </div>
+    </div>
+    }
+

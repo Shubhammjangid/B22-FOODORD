@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NS.WEB.DATABASE\NS.WEB.DATABASE.csproj" />
+    <ProjectReference Include="..\NS.WEB.MODEL\NS.WEB.MODEL.csproj" />
+  </ItemGroup>
+
+</Project>

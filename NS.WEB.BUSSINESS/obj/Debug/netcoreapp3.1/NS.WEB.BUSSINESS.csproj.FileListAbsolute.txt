@@ -1,0 +1,17 @@
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.deps.json
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.MODEL.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.MODEL.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.BUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.BUSSINESS.csproj.CopyComplete

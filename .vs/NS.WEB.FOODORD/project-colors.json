@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2d6ea6f-50f1-4d83-850f-7e62f775c984": {
+      "ProjectGuid": "c2d6ea6f-50f1-4d83-850f-7e62f775c984",
+      "DisplayName": "NS.WEB.DATABASE",
+      "ColorIndex": 0
+    },
+    "89e3b694-c6f8-45e7-bfba-16b400eeb811": {
+      "ProjectGuid": "89e3b694-c6f8-45e7-bfba-16b400eeb811",
+      "DisplayName": "NS.WEB.DATABASE",
+      "ColorIndex": 1
+    },
+    "615d64ee-f60f-468f-b762-7c0354761343": {
+      "ProjectGuid": "615d64ee-f60f-468f-b762-7c0354761343",
+      "DisplayName": "NS.WEB.REPOSITARY",
+      "ColorIndex": 2
+    },
+    "ad1c2d93-7dd0-47af-a34b-b560a2b518de": {
+      "ProjectGuid": "ad1c2d93-7dd0-47af-a34b-b560a2b518de",
+      "DisplayName": "NS.WEB.BUSSINESS",
+      "ColorIndex": 3
+    },
+    "613a5513-8178-4f89-a5cf-1e79513ac505": {
+      "ProjectGuid": "613a5513-8178-4f89-a5cf-1e79513ac505",
+      "DisplayName": "NS.WEB.FOODORD",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

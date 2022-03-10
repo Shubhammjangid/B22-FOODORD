@@ -1,0 +1,15 @@
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\bin\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.deps.json
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\bin\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\bin\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\obj\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\obj\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\obj\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\obj\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\obj\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\obj\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\obj\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\bin\Debug\netcoreapp3.1\NS.WEB.MODEL.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\bin\Debug\netcoreapp3.1\NS.WEB.MODEL.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.REPOSITARY\obj\Debug\netcoreapp3.1\NS.WEB.REPOSITARY.csproj.CopyComplete

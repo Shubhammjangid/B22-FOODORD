@@ -1,0 +1,15 @@
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\bin\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.deps.json
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\bin\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\bin\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\obj\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\obj\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\obj\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\obj\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\obj\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\obj\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\obj\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\bin\Debug\netcoreapp3.1\NS.WEB.MODEL.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\bin\Debug\netcoreapp3.1\NS.WEB.MODEL.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINREPO\obj\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.csproj.CopyComplete

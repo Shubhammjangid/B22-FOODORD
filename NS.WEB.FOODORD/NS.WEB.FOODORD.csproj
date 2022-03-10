@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NS.WEB.BUSSINESS\NS.WEB.BUSSINESS.csproj" />
+    <ProjectReference Include="..\NS.WEB.DATABASE\NS.WEB.DATABASE.csproj" />
+    <ProjectReference Include="..\NS.WEB.LOGINBUSSINESS\NS.WEB.LOGINBUSSINESS.csproj" />
+    <ProjectReference Include="..\NS.WEB.LOGINREPO\NS.WEB.LOGINREPO.csproj" />
+    <ProjectReference Include="..\NS.WEB.MODEL\NS.WEB.MODEL.csproj" />
+    <ProjectReference Include="..\NS.WEB.REPOSITARY\NS.WEB.REPOSITARY.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\dish\" />
+	  <Folder Include="wwwroot\images\" />
+	  <Folder Include="wwwroot\dishpictures\" />
+	  <Folder Include="wwwroot\user\" />
+	  
+  </ItemGroup>
+
+</Project>

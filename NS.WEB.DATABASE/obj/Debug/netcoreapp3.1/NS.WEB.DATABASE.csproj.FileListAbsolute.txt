@@ -1,0 +1,10 @@
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.deps.json
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\obj\Debug\netcoreapp3.1\NS.WEB.DATABASE.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\obj\Debug\netcoreapp3.1\NS.WEB.DATABASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\obj\Debug\netcoreapp3.1\NS.WEB.DATABASE.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\obj\Debug\netcoreapp3.1\NS.WEB.DATABASE.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\obj\Debug\netcoreapp3.1\NS.WEB.DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\obj\Debug\netcoreapp3.1\NS.WEB.DATABASE.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.DATABASE\obj\Debug\netcoreapp3.1\NS.WEB.DATABASE.pdb

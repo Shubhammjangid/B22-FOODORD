@@ -1,0 +1,17 @@
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.deps.json
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.LOGINREPO.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.csproj.AssemblyReference.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.AssemblyInfoInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.AssemblyInfo.cs
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.csproj.CoreCompileInputs.cache
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.csproj.CopyComplete
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\obj\Debug\netcoreapp3.1\NS.WEB.LOGINBUSSINESS.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.MODEL.dll
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.DATABASE.pdb
+C:\Users\harsh jangid\Desktop\NSIFOOD\NS.WEB.FOODORD\NS.WEB.LOGINBUSSINESS\bin\Debug\netcoreapp3.1\NS.WEB.MODEL.pdb

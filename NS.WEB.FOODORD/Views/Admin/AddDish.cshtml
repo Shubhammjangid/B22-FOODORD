@@ -1,0 +1,58 @@
+﻿@model NS.WEB.MODEL.DishModel
+<form class="Form" method="post" enctype="multipart/form-data" asp-action="AddDish" asp-controller="Admin">
+       <div asp-validation-summary="All" class="text-danger"></div>
+
+      <div class="form-group">
+        <label asp-for="DishName"></label>
+        <input asp-for="DishName" class="form-control" />
+        <span asp-validation-for="DishName" class="text-danger"></span>
+      </div>
+
+    <div class="form-group">
+       <label asp-for="DishDescription"></label>
+       <textarea asp-for="DishDescription" class="form-control"></textarea>
+       <span asp-validation-for="DishDescription" class="text-danger"></span>
+    </div>
+
+   <div class="form-group">
+       <label asp-for="DishCategory"></label>
+       <br />
+        <span>VEGITARIAN: </span> @Html.RadioButton("DishCategory","VEGITARIAN",true)
+        <span> | NON-VEGITARIAN: </span> @Html.RadioButton("DishCategory", "NON-VEGITARIAN",false)
+   </div>
+
+   <div class="form-group">
+       <label asp-for="DishStatus"></label>
+       <br />
+        <span>Available: </span> @Html.RadioButton("DishStatus","True",true)
+        <span> | Unavailable: </span> @Html.RadioButton("DishStatus", "False",false)
+   </div>
+
+   <div class="form-group">
+      @Html.DropDownListFor(m => m.DishOrigin,
+      new SelectList(Enum.GetValues(typeof(NS.WEB.MODEL.DishModel.Origin))), "Select Type Of Dish")
+    </div>
+
+    <div class="form-group">
+       <label asp-for="DishPrice"></label>
+       <input asp-for="DishPrice" class="form-control" />
+       <span asp-validation-for="DishPrice" class="text-danger"></span>
+    </div>
+      
+    
+
+    <div class="form-group">
+       <label asp-for="DishPhoto"></label>
+      <div class="custom-file">
+         
+          @Html.TextBoxFor(m => m.DishPhoto, new { type = "file", multiple = "multiple"})
+      </div>
+       <span asp-validation-for="DishPhoto" class="text-danger"></span>
+    </div>
+
+
+     <div class="form-group">
+        <input type="submit" value="Add Dish" class="btn btn-primary" />
+    </div>
+
+   </form>
