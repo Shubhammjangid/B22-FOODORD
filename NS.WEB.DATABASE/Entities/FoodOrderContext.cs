@@ -22,7 +22,7 @@ namespace NS.WEB.DATABASE.Entities
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=192.168.2.30;Database=B22-FOODORDA;User=FOODORDA;Password=FOODORDA123;");
+                optionsBuilder.UseSqlServer("Server=*******;Database=B22-FOODORDA;User=*******;Password=*******;");
             }
         }
 
